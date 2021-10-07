@@ -1,4 +1,5 @@
-const API_KEY="5397ef2cf53ffcec622e0616b8fb1d9b";
+//add API_KEY from any movies api and change export with the right endpoints
+const API_KEY="";
 
 export default{
 
